@@ -1,0 +1,7 @@
+id = "dogi"
+name = "Dogi"
+version = "0.1.0"
+schema_version = 1
+authors = ["Doğukan Ürker <dogukanurker@icloud.com>"]
+description = "A minimalist flat theme with pure black and white backgrounds, vibrant syntax colors, and consistent medium font weights. Features both dark and light variants."
+repository = "https://github.com/dogukanurker/DogiZed"
