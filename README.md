@@ -1,4 +1,4 @@
-# Dogi Theme for Zed
+# Dogi Theme for [Zed](https://zed.dev/)
 
 A minimalist flat theme for Zed with pure black and white backgrounds, vibrant syntax colors, and consistent font weights.
 
