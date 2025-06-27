@@ -231,6 +231,8 @@
         "version_control.conflict": "#FB923C",
         "version_control.conflict_background": "#FB923C26",
         "version_control.ignored": "#3A3A3A",
+        "version_control.conflict_marker.ours": "#34D3991A",
+        "version_control.conflict_marker.theirs": "#60A5FA1A",
         "syntax": {
           "keyword": {
             "color": "#60A5FA",
@@ -630,6 +632,8 @@
         "version_control.conflict": "#EA580C",
         "version_control.conflict_background": "#EA580C30",
         "version_control.ignored": "#B0B0B0",
+        "version_control.conflict_marker.ours": "#0596691A",
+        "version_control.conflict_marker.theirs": "#2563EB1A",
         "syntax": {
           "keyword": {
             "color": "#2563EB",
