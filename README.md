@@ -4,7 +4,7 @@ A minimalist flat theme for Zed with pure black and white backgrounds, vibrant s
 
 ## 🎨 Features
 
-- **Flat backgrounds** - True black (#0B0B0B) for dark mode, pure white (#FFFFFF) for light mode
+- **Flat backgrounds** - Pure black (#000000) for dark mode, pure white (#FFFFFF) for light mode
 - **Vibrant syntax highlighting** - Carefully selected colors for excellent code readability
 - **Consistent font weights** - Medium weight (500) throughout for a uniform appearance
 - **Two variants** - Both dark and light themes included
@@ -12,9 +12,11 @@ A minimalist flat theme for Zed with pure black and white backgrounds, vibrant s
 ## 📸 Screenshots
 
 ### Dark Theme
+
 ![Dogi Dark Theme](assets/dark.png)
 
 ### Light Theme
+
 ![Dogi Light Theme](assets/light.png)
 
 ## 🚀 Installation
@@ -37,5 +39,6 @@ Dogi focuses on minimalism and clarity. By using pure black and white background
 ## 👤 Author
 
 **Doğukan Ürker**
+
 - GitHub: [@dogukanurker](https://github.com/dogukanurker)
 - Email: dogukanurker@icloud.com
